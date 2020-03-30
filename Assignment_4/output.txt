@@ -1,0 +1,4 @@
+Enter the number of terms :2
+
+sum of first 2 even terms with 1st method is 6
+sum of first 2 even terms with 2nd method is 6

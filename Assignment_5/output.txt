@@ -1,0 +1,3 @@
+Enter the number of terms :3
+
+sum of first 3 odd terms is 9
