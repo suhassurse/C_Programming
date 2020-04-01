@@ -1,0 +1,9 @@
+Enter the number of terms :7
+......a
+.....bbb
+....ccccc
+...ddddddd
+..eeeeeeeee
+.fffffffffff
+ggggggggggggg
+
