@@ -1,0 +1,7 @@
+enter the digit4321
+
+current digit is 1 and revnum is 1
+current digit is 2 and revnum is 12
+current digit is 3 and revnum is 123
+current digit is 4 and revnum is 1234
+revnum is 1234
