@@ -1,0 +1,11 @@
+enter the number100
+
+1 is the factorial
+2 is the factorial
+4 is the factorial
+5 is the factorial
+10 is the factorial
+20 is the factorial
+25 is the factorial
+50 is the factorial
+100 is the factorial
