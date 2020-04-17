@@ -1,0 +1,6 @@
+
+Triode number x =192 , and 2*x = 384 and 3*x = 576
+Triode number x =219 , and 2*x = 438 and 3*x = 657
+Triode number x =267 , and 2*x = 534 and 3*x = 801
+Triode number x =273 , and 2*x = 546 and 3*x = 819
+Triode number x =327 , and 2*x = 654 and 3*x = 981

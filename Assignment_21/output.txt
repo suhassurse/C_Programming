@@ -1,0 +1,7 @@
+suhas@suhas-HP-Notebook:~/My_Learnings/C_Programming/Assignment_21$ ./perfect_no 
+
+6 is the perfect number
+28 is the perfect number
+496 is the perfect numbersuhas@suhas-HP-Notebook:~/My_Learnings/C_Programming/Assignment_21$ ^C
+suhas@suhas-HP-Notebook:~/My_Learnings/C_Programming/Assignment_21$ 
+
