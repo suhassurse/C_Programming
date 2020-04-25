@@ -1,0 +1,3 @@
+Enter the first no:10
+Enter the first no:15
+Addition of 10 and 15 is 25
